@@ -1,5 +1,5 @@
-# React/Redux/Router Starter Project
+# Portfilio Project for Michael Childress
 
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
+> Portfolio written in React
 
 *Fork from [es6-webpack2-starter](https://github.com/micooz/es6-webpack2-starter)*
