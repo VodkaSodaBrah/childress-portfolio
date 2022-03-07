@@ -13,30 +13,7 @@ export default function () {
         }}
       />
       <div className="right-column">
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem,
-        ducimus in repellat nostrum voluptatum ipsum accusamus illo veritatis
-        recusandae ex similique voluptas, quia et, sunt blanditiis aspernatur
-        quam suscipit aliquid. Illum consequatur odit atque molestiae officiis
-        sed, eos perspiciatis ducimus repudiandae est veritatis esse provident
-        iste similique minima optio rerum tenetur qui beatae ipsum, possimus
-        dolor laboriosam. Quasi, dignissimos nihil? Culpa ipsa placeat excepturi
-        fugiat nihil harum voluptatum soluta asperiores illum reiciendis tempora
-        maxime ratione consectetur quidem, iusto, omnis magni minima tempore
-        iste delectus commodi ab nisi repellat vel. Nobis? Doloribus quidem
-        quasi, distinctio illo libero excepturi ad molestias iure voluptates.
-        Itaque aperiam, adipisci voluptas ullam harum eius atque excepturi
-        deleniti molestias libero iusto! Ratione facere quaerat harum
-        consectetur soluta. Deleniti ab veniam sapiente perferendis architecto,
-        est dolore, quas ducimus qui ut sint id rem praesentium voluptates totam
-        facilis aperiam, quae aliquid labore? Quos mollitia placeat expedita
-        totam voluptatum eligendi. Ipsa nemo aut dignissimos veritatis,
-        doloremque pariatur aspernatur deserunt perferendis natus totam laborum
-        corporis architecto iure esse, ea placeat dicta magnam cupiditate optio
-        nisi ex possimus incidunt! Doloremque, suscipit quia? Tempora enim
-        voluptatum deserunt ab quam, placeat dolorum provident accusamus
-        asperiores iste voluptatem porro vitae harum nulla, sunt quidem, autem
-        deleniti? Doloribus magnam minus voluptatem voluptas eveniet,
-        consequuntur officia tempore.
+        My name is Michael Childress. I am a former beverage director, hotel manager, bar manager, and craft cocktail bartender making my way into the technology world. I have recently finshed my studies in software development from Bottega based out of Utah. My passions lie in family, business, and learning about technology, and motorsport. My goal with this portfolio is to show a visual representation of my résumé built in React in order to best showcase my development abilities. 
       </div>
     </div>
   );
