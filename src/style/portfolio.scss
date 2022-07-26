@@ -1,6 +1,10 @@
 .portfolio-items-wrapper {
     display: grid;
+<<<<<<< HEAD
     grid-template-columns: 1fr 1fr 1fr 1fr;
+=======
+    grid-template-columns: 1fr 1fr 1fr;
+>>>>>>> origin/main
 
     .portfolio-item-wrapper {
         position: relative;
@@ -37,7 +41,11 @@
         }
 
         .logo-wrapper img {
+<<<<<<< HEAD
             width: 50%;
+=======
+            width: 80%;
+>>>>>>> origin/main
             margin-bottom: 20px;
         }
     }
