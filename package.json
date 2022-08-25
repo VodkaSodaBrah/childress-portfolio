@@ -83,7 +83,6 @@
     "sass-loader": "^10.0.0",
     "striptags": "^3.2.0",
     "style-loader": "^0.21.0",
-    "webpack": "4.42.1",
     "webpack-cli": "3.3.11",
     "webpack-dev-middleware": "3.7.2",
     "webpack-dev-server": "3.10.3",
@@ -91,11 +90,13 @@
     "webpack-merge": "4.2.2"
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.18.10",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-react": "^6.24.1",
     "babel-register": "^6.26.0",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
-    "uglifyjs-webpack-plugin": "^1.2.7"
+    "uglifyjs-webpack-plugin": "^1.2.7",
+    "webpack": "^4.46.0"
   }
 }
