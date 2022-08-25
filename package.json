@@ -1,6 +1,6 @@
 {
-  "name": "michael-childress-react-portfolio",
-  "version": "1.0.0",
+  "name": "childress-portfolio",
+  "version": "1.0.1",
   "description": "Personal portfolio app built in React",
   "engines": {
     "node": "16.14.0"
