@@ -1,4 +1,4 @@
-# Portfilio Project for Michael Childress
+# Portfolio Project for Michael Childress
 
 > Professional Portfolio written in React to be a visual representation of my résumé 
 
